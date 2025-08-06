@@ -1,4 +1,7 @@
 🛡️ Financial Fraud Detection Analysis
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Scikit--learn%20%7C%20Seaborn-orange) ![Kaggle](https://img.shields.io/badge/Data-Kaggle-brightgreen.svg)
+
 An end-to-end machine learning project that detects fraudulent financial transactions. This analysis moves from initial exploratory data analysis on a sample to building and validating a robust RandomForestClassifier on a full dataset of over 6.3 million records, with a special focus on handling severe class imbalance.
 
 ✨ Key Features
