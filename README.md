@@ -104,4 +104,4 @@ To determine if these actions are effective, the company should conduct an **A/B
 ### 💾 Data Source
 
 * **Dataset**: Synthetic Financial Dataset for Fraud Detection
-* **Source**: [Kaggle](https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data)
+* **Source**: [Kaggle](https://www.kaggle.com/datasets/pranavdixit98/frauddataset)
